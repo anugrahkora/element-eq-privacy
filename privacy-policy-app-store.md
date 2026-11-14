@@ -66,14 +66,11 @@ Depending on your location, you may have rights to access, correct, delete, or r
 
 To request information or ask privacy questions, contact:
 
-- Email: hello@elementeq.app
-- Alternative Email: kdevproject14@gmail.com
+- Email: kdevproject14@gmail.com
 
 ## Contact
 
 If you have any questions about this privacy summary or how Element EQ handles data, please contact us at:
 
-- hello@elementeq.app
 - kdevproject14@gmail.com
 
-This summary is intended as a concise public-facing explanation of our privacy practices. For the complete policy, please refer to the full privacy policy on our website or app documentation.
